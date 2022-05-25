@@ -1,0 +1,31 @@
+
+.displayGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+@keyframes animationElement{
+    from{
+        border-radius: 1px;
+        box-shadow: 0px 0px 0px 0px blue;
+        -webkit-box-shadow: 0px 0px 0px 0px blue;
+        -moz-box-shadow: 0px 0px 0px 0px blue;
+        -ms-box-shadow: 0px 0px 0px 0px blue;
+        -o-box-shadow: 0px 0px 0px 0px blue;
+    }
+    50%{
+        border-radius: 1px;
+        box-shadow: 0px 0px 0px 0px blue;
+        -webkit-box-shadow: 0px 0px 0px 0px blue;
+        -moz-box-shadow: 0px 0px 0px 0px blue;
+        -ms-box-shadow: 0px 0px 0px 0px blue;
+        -o-box-shadow: 0px 0px 0px 0px blue;
+    }
+    to{
+        border-radius: 1px;
+        box-shadow: 0px 0px 0px 0px blue;
+        -webkit-box-shadow: 0px 0px 0px 0px blue;
+        -moz-box-shadow: 0px 0px 0px 0px blue;
+        -ms-box-shadow: 0px 0px 0px 0px blue;
+        -o-box-shadow: 0px 0px 0px 0px blue;
+    }
+}
